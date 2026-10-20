@@ -1,0 +1,63 @@
+name: Tests
+
+on: [push, pull_request, workflow_dispatch]
+
+permissions:
+  contents: read
+
+jobs:
+  desktop:
+    name: ${{ matrix.os }}
+    runs-on: ${{ matrix.os }}
+    timeout-minutes: 15
+    strategy:
+      fail-fast: false
+      matrix:
+        os: [ubuntu-latest, macos-latest]
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-python@v7
+        with:
+          python-version: '3.13'
+          cache: pip
+      - name: Linux runtime libraries
+        if: runner.os == 'Linux'
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y libegl1 libgl1 libpulse0 libxcb-cursor0 libxkbcommon-x11-0
+      - name: Python packages
+        run: python -m pip install -r requirements.txt
+      - name: Tests
+        run: bash scripts/test.sh
+
+  linux-distros:
+    name: ${{ matrix.name }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    container: ${{ matrix.image }}
+    strategy:
+      fail-fast: false
+      matrix:
+        include:
+          - name: Arch Linux
+            image: archlinux:base
+          - name: Fedora
+            image: fedora:latest
+    steps:
+      - name: System packages
+        shell: bash
+        run: |
+          if command -v pacman >/dev/null; then
+            pacman -Syu --noconfirm --needed git python python-pip mpv xcb-util-cursor libxkbcommon-x11
+          else
+            dnf install -y git python3 python3-pip mpv xcb-util-cursor libxkbcommon-x11 mesa-libEGL
+          fi
+      - uses: actions/checkout@v7
+      - name: Python packages
+        shell: bash
+        run: |
+          python3 -m venv .venv
+          .venv/bin/python -m pip install -r requirements.txt
+      - name: Tests
+        shell: bash
+        run: bash scripts/test.sh

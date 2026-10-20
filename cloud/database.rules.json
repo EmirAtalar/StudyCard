@@ -1,0 +1,21 @@
+{
+  "rules": {
+    ".read": false,
+    ".write": false,
+    "users": {
+      "$uid": {
+        ".read": "auth != null && auth.uid === $uid",
+        ".write": "auth != null && auth.uid === $uid",
+        "library": {
+          ".validate": "newData.hasChildren(['schema_version', 'revision', 'records']) && newData.child('schema_version').val() === 1 && newData.child('revision').isNumber() && newData.child('revision').val() > 0 && (!data.exists() || newData.child('revision').val() >= data.child('revision').val())",
+          "records": {
+            "$id": {
+              ".validate": "newData.hasChildren(['entity', 'uuid', 'revision', 'deleted', 'data_json']) && $id.matches(/^[a-f0-9]{32}$/) && newData.child('uuid').val() === $id && (newData.child('entity').val() === 'deck' || newData.child('entity').val() === 'card') && newData.child('revision').isNumber() && newData.child('deleted').isBoolean() && newData.child('data_json').isString() && newData.child('data_json').val().length <= 400000"
+            }
+          }
+        },
+        "$other": { ".validate": false }
+      }
+    }
+  }
+}

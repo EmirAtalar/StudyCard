@@ -1,0 +1,57 @@
+# Local profiles, backups and exports
+.studycard/
+*.studycard
+*.db
+*.db-*
+*.sqlite
+*.sqlite-*
+*.sqlite3
+*.sqlite3-*
+account.json
+settings.json
+backups/
+exports/
+
+# Python environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+.cache/
+*.log
+
+# Local credentials and service configuration
+.env
+.env.*
+!.env.example
+google-services.json
+**/firebase_config.json
+*service-account*.json
+*service_account*.json
+client_secret*.json
+oauth-desktop*.json
+firebase-web*.json
+
+# Android build output, SDK paths and signing keys
+.gradle/
+build/
+dist/
+local.properties
+keystore.properties
+*.keystore
+*.jks
+*.apk
+*.aab
+
+# Editor and desktop metadata
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+*.swp
+*.swo

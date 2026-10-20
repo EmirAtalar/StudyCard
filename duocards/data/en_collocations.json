@@ -1,0 +1,302 @@
+[
+  {
+    "term": "make a decision",
+    "attr": "make + decision",
+    "extra": "We need to make a decision today.",
+    "example": "We need to make a decision today.",
+    "translations": {
+      "tr": "karar vermek",
+      "en": "choose what to do",
+      "de": "eine Entscheidung treffen",
+      "es": "tomar una decisión"
+    }
+  },
+  {
+    "term": "take a break",
+    "attr": "take + break",
+    "extra": "Let's take a break after this exercise.",
+    "example": "Let's take a break after this exercise.",
+    "translations": {
+      "tr": "mola vermek",
+      "en": "stop briefly to rest",
+      "de": "eine Pause machen",
+      "es": "tomar un descanso"
+    }
+  },
+  {
+    "term": "pay attention",
+    "attr": "pay attention to",
+    "extra": "Please pay attention to the instructions.",
+    "example": "Please pay attention to the instructions.",
+    "translations": {
+      "tr": "dikkat etmek",
+      "en": "focus carefully",
+      "de": "aufpassen",
+      "es": "prestar atención"
+    }
+  },
+  {
+    "term": "keep a promise",
+    "attr": "keep + promise",
+    "extra": "She always keeps her promises.",
+    "example": "She always keeps her promises.",
+    "translations": {
+      "tr": "sözünü tutmak",
+      "en": "do what you promised",
+      "de": "ein Versprechen halten",
+      "es": "cumplir una promesa"
+    }
+  },
+  {
+    "term": "make progress",
+    "attr": "make + progress",
+    "extra": "You're making progress with your pronunciation.",
+    "example": "You're making progress with your pronunciation.",
+    "translations": {
+      "tr": "ilerleme kaydetmek",
+      "en": "improve over time",
+      "de": "Fortschritte machen",
+      "es": "progresar"
+    }
+  },
+  {
+    "term": "do research",
+    "attr": "do research on",
+    "extra": "We're doing research on local history.",
+    "example": "We're doing research on local history.",
+    "translations": {
+      "tr": "araştırma yapmak",
+      "en": "study a subject to find information",
+      "de": "recherchieren",
+      "es": "investigar"
+    }
+  },
+  {
+    "term": "meet a deadline",
+    "attr": "meet + deadline",
+    "extra": "We worked together to meet the deadline.",
+    "example": "We worked together to meet the deadline.",
+    "translations": {
+      "tr": "işi son tarihe yetiştirmek",
+      "en": "finish by the required date",
+      "de": "eine Frist einhalten",
+      "es": "cumplir un plazo"
+    }
+  },
+  {
+    "term": "heavy rain",
+    "attr": "heavy + rain",
+    "extra": "Heavy rain delayed our flight.",
+    "example": "Heavy rain delayed our flight.",
+    "translations": {
+      "tr": "şiddetli yağmur",
+      "en": "a large amount of rainfall",
+      "de": "starker Regen",
+      "es": "lluvia intensa"
+    }
+  },
+  {
+    "term": "strong coffee",
+    "attr": "strong + coffee",
+    "extra": "I prefer strong coffee in the morning.",
+    "example": "I prefer strong coffee in the morning.",
+    "translations": {
+      "tr": "sert kahve",
+      "en": "coffee with an intense flavor",
+      "de": "starker Kaffee",
+      "es": "café fuerte"
+    }
+  },
+  {
+    "term": "save time",
+    "attr": "save + time",
+    "extra": "This shortcut will save time.",
+    "example": "This shortcut will save time.",
+    "translations": {
+      "tr": "zaman kazanmak",
+      "en": "reduce the time needed",
+      "de": "Zeit sparen",
+      "es": "ahorrar tiempo"
+    }
+  },
+  {
+    "term": "spend time",
+    "attr": "spend time doing",
+    "extra": "I spend time reading every evening.",
+    "example": "I spend time reading every evening.",
+    "translations": {
+      "tr": "zaman geçirmek",
+      "en": "use time on an activity",
+      "de": "Zeit verbringen",
+      "es": "pasar tiempo"
+    }
+  },
+  {
+    "term": "make an effort",
+    "attr": "make an effort to",
+    "extra": "He made an effort to speak clearly.",
+    "example": "He made an effort to speak clearly.",
+    "translations": {
+      "tr": "çaba göstermek",
+      "en": "try hard to do something",
+      "de": "sich bemühen",
+      "es": "hacer un esfuerzo"
+    }
+  },
+  {
+    "term": "take responsibility",
+    "attr": "take responsibility for",
+    "extra": "She took responsibility for the mistake.",
+    "example": "She took responsibility for the mistake.",
+    "translations": {
+      "tr": "sorumluluk üstlenmek",
+      "en": "accept that you are accountable",
+      "de": "Verantwortung übernehmen",
+      "es": "asumir la responsabilidad"
+    }
+  },
+  {
+    "term": "break a habit",
+    "attr": "break + habit",
+    "extra": "It's hard to break a habit.",
+    "example": "It's hard to break a habit.",
+    "translations": {
+      "tr": "alışkanlığı bırakmak",
+      "en": "stop a repeated behavior",
+      "de": "eine Gewohnheit ablegen",
+      "es": "dejar un hábito"
+    }
+  },
+  {
+    "term": "raise awareness",
+    "attr": "raise awareness of",
+    "extra": "The campaign raises awareness of recycling.",
+    "example": "The campaign raises awareness of recycling.",
+    "translations": {
+      "tr": "farkındalık yaratmak",
+      "en": "help people understand an issue",
+      "de": "Bewusstsein schaffen",
+      "es": "crear conciencia"
+    }
+  },
+  {
+    "term": "catch a cold",
+    "attr": "catch + cold",
+    "extra": "I caught a cold last week.",
+    "example": "I caught a cold last week.",
+    "translations": {
+      "tr": "soğuk algınlığına yakalanmak",
+      "en": "become ill with a cold",
+      "de": "sich erkälten",
+      "es": "resfriarse"
+    }
+  },
+  {
+    "term": "miss an opportunity",
+    "attr": "miss + opportunity",
+    "extra": "Don't miss the opportunity to practice.",
+    "example": "Don't miss the opportunity to practice.",
+    "translations": {
+      "tr": "fırsatı kaçırmak",
+      "en": "fail to use a chance",
+      "de": "eine Gelegenheit verpassen",
+      "es": "perder una oportunidad"
+    }
+  },
+  {
+    "term": "reach an agreement",
+    "attr": "reach + agreement",
+    "extra": "They reached an agreement after two meetings.",
+    "example": "They reached an agreement after two meetings.",
+    "translations": {
+      "tr": "anlaşmaya varmak",
+      "en": "arrive at a shared decision",
+      "de": "eine Einigung erzielen",
+      "es": "llegar a un acuerdo"
+    }
+  },
+  {
+    "term": "ask for advice",
+    "attr": "ask for + advice",
+    "extra": "You can ask for advice when you need help.",
+    "example": "You can ask for advice when you need help.",
+    "translations": {
+      "tr": "tavsiye istemek",
+      "en": "request guidance",
+      "de": "um Rat fragen",
+      "es": "pedir consejo"
+    }
+  },
+  {
+    "term": "give feedback",
+    "attr": "give feedback on",
+    "extra": "Could you give feedback on my presentation?",
+    "example": "Could you give feedback on my presentation?",
+    "translations": {
+      "tr": "geri bildirim vermek",
+      "en": "provide comments on performance",
+      "de": "Rückmeldung geben",
+      "es": "dar comentarios"
+    }
+  },
+  {
+    "term": "solve a problem",
+    "attr": "solve + problem",
+    "extra": "Let's solve this problem together.",
+    "example": "Let's solve this problem together.",
+    "translations": {
+      "tr": "sorun çözmek",
+      "en": "find an answer to a difficulty",
+      "de": "ein Problem lösen",
+      "es": "resolver un problema"
+    }
+  },
+  {
+    "term": "set a goal",
+    "attr": "set + goal",
+    "extra": "Set a goal you can measure.",
+    "example": "Set a goal you can measure.",
+    "translations": {
+      "tr": "hedef belirlemek",
+      "en": "decide what you want to achieve",
+      "de": "ein Ziel setzen",
+      "es": "fijar una meta"
+    }
+  },
+  {
+    "term": "make a mistake",
+    "attr": "make + mistake",
+    "extra": "It's normal to make mistakes while learning.",
+    "example": "It's normal to make mistakes while learning.",
+    "translations": {
+      "tr": "hata yapmak",
+      "en": "do something incorrectly",
+      "de": "einen Fehler machen",
+      "es": "cometer un error"
+    }
+  },
+  {
+    "term": "gain experience",
+    "attr": "gain + experience",
+    "extra": "You can gain experience by volunteering.",
+    "example": "You can gain experience by volunteering.",
+    "translations": {
+      "tr": "deneyim kazanmak",
+      "en": "develop practical knowledge",
+      "de": "Erfahrung sammeln",
+      "es": "adquirir experiencia"
+    }
+  },
+  {
+    "term": "keep in touch",
+    "attr": "keep in touch with",
+    "extra": "Let's keep in touch after the course.",
+    "example": "Let's keep in touch after the course.",
+    "translations": {
+      "tr": "iletişimde kalmak",
+      "en": "continue communicating",
+      "de": "in Kontakt bleiben",
+      "es": "mantener el contacto"
+    }
+  }
+]

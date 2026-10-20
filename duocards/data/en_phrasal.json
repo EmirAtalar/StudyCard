@@ -1,0 +1,302 @@
+[
+  {
+    "term": "give up",
+    "attr": "give up doing something",
+    "extra": "Don't give up learning English.",
+    "example": "Don't give up learning English.",
+    "translations": {
+      "tr": "vazgeçmek",
+      "en": "stop trying",
+      "de": "aufgeben",
+      "es": "rendirse"
+    }
+  },
+  {
+    "term": "look after",
+    "attr": "look after someone",
+    "extra": "Can you look after my dog this weekend?",
+    "example": "Can you look after my dog this weekend?",
+    "translations": {
+      "tr": "bakımını üstlenmek",
+      "en": "take care of someone",
+      "de": "sich kümmern um",
+      "es": "cuidar de"
+    }
+  },
+  {
+    "term": "find out",
+    "attr": "find out information",
+    "extra": "I need to find out when the train leaves.",
+    "example": "I need to find out when the train leaves.",
+    "translations": {
+      "tr": "öğrenmek; keşfetmek",
+      "en": "discover information",
+      "de": "herausfinden",
+      "es": "averiguar"
+    }
+  },
+  {
+    "term": "put off",
+    "attr": "put off doing something",
+    "extra": "We put off the meeting until Friday.",
+    "example": "We put off the meeting until Friday.",
+    "translations": {
+      "tr": "ertelemek",
+      "en": "postpone something",
+      "de": "verschieben",
+      "es": "posponer"
+    }
+  },
+  {
+    "term": "turn down",
+    "attr": "turn down an offer",
+    "extra": "She turned down the job offer.",
+    "example": "She turned down the job offer.",
+    "translations": {
+      "tr": "geri çevirmek",
+      "en": "reject an offer",
+      "de": "ablehnen",
+      "es": "rechazar"
+    }
+  },
+  {
+    "term": "bring up",
+    "attr": "bring up a topic",
+    "extra": "He brought up the budget during lunch.",
+    "example": "He brought up the budget during lunch.",
+    "translations": {
+      "tr": "konuyu açmak",
+      "en": "mention a topic",
+      "de": "ansprechen",
+      "es": "mencionar un tema"
+    }
+  },
+  {
+    "term": "carry on",
+    "attr": "carry on doing something",
+    "extra": "Please carry on with your work.",
+    "example": "Please carry on with your work.",
+    "translations": {
+      "tr": "devam etmek",
+      "en": "continue doing something",
+      "de": "weitermachen",
+      "es": "seguir haciendo algo"
+    }
+  },
+  {
+    "term": "run out of",
+    "attr": "run out of something",
+    "extra": "We've run out of milk.",
+    "example": "We've run out of milk.",
+    "translations": {
+      "tr": "bir şeyi tüketmek",
+      "en": "have none left",
+      "de": "keinen Vorrat mehr haben",
+      "es": "quedarse sin"
+    }
+  },
+  {
+    "term": "get along with",
+    "attr": "get along with someone",
+    "extra": "I get along with my neighbors.",
+    "example": "I get along with my neighbors.",
+    "translations": {
+      "tr": "iyi geçinmek",
+      "en": "have a good relationship",
+      "de": "sich gut verstehen mit",
+      "es": "llevarse bien con"
+    }
+  },
+  {
+    "term": "look forward to",
+    "attr": "look forward to doing something",
+    "extra": "I'm looking forward to seeing you.",
+    "example": "I'm looking forward to seeing you.",
+    "translations": {
+      "tr": "dört gözle beklemek",
+      "en": "feel excited about a future event",
+      "de": "sich freuen auf",
+      "es": "esperar con ilusión"
+    }
+  },
+  {
+    "term": "figure out",
+    "attr": "figure out a problem",
+    "extra": "We figured out how to fix the printer.",
+    "example": "We figured out how to fix the printer.",
+    "translations": {
+      "tr": "çözmek; anlamak",
+      "en": "understand or solve something",
+      "de": "verstehen oder lösen",
+      "es": "entender o resolver"
+    }
+  },
+  {
+    "term": "set up",
+    "attr": "set up a system",
+    "extra": "Can you set up the new computer?",
+    "example": "Can you set up the new computer?",
+    "translations": {
+      "tr": "kurmak; hazırlamak",
+      "en": "establish or arrange something",
+      "de": "einrichten",
+      "es": "montar o configurar"
+    }
+  },
+  {
+    "term": "show up",
+    "attr": "show up at an event",
+    "extra": "He showed up ten minutes late.",
+    "example": "He showed up ten minutes late.",
+    "translations": {
+      "tr": "gelmek; ortaya çıkmak",
+      "en": "arrive or appear",
+      "de": "auftauchen",
+      "es": "aparecer"
+    }
+  },
+  {
+    "term": "calm down",
+    "attr": "calm down after stress",
+    "extra": "Take a deep breath and calm down.",
+    "example": "Take a deep breath and calm down.",
+    "translations": {
+      "tr": "sakinleşmek",
+      "en": "become less upset",
+      "de": "sich beruhigen",
+      "es": "calmarse"
+    }
+  },
+  {
+    "term": "check in",
+    "attr": "check in at a hotel",
+    "extra": "We checked in at the hotel at three.",
+    "example": "We checked in at the hotel at three.",
+    "translations": {
+      "tr": "giriş kaydı yapmak",
+      "en": "register on arrival",
+      "de": "einchecken",
+      "es": "registrarse al llegar"
+    }
+  },
+  {
+    "term": "check out",
+    "attr": "check out of a hotel",
+    "extra": "We need to check out before noon.",
+    "example": "We need to check out before noon.",
+    "translations": {
+      "tr": "çıkış işlemi yapmak",
+      "en": "leave after paying at a hotel",
+      "de": "auschecken",
+      "es": "dejar el hotel"
+    }
+  },
+  {
+    "term": "pick up",
+    "attr": "pick up someone by car",
+    "extra": "I'll pick you up at the station.",
+    "example": "I'll pick you up at the station.",
+    "translations": {
+      "tr": "birini araçla almak",
+      "en": "collect someone by car",
+      "de": "jemanden abholen",
+      "es": "recoger a alguien"
+    }
+  },
+  {
+    "term": "drop off",
+    "attr": "drop someone off",
+    "extra": "Can you drop me off at the airport?",
+    "example": "Can you drop me off at the airport?",
+    "translations": {
+      "tr": "birini araçla bırakmak",
+      "en": "take someone to a place and leave them there",
+      "de": "jemanden absetzen",
+      "es": "dejar a alguien en un lugar"
+    }
+  },
+  {
+    "term": "try on",
+    "attr": "try on clothes",
+    "extra": "Can I try on this jacket?",
+    "example": "Can I try on this jacket?",
+    "translations": {
+      "tr": "kıyafet denemek",
+      "en": "put on clothes to check the fit",
+      "de": "anprobieren",
+      "es": "probarse ropa"
+    }
+  },
+  {
+    "term": "fill in",
+    "attr": "fill in a form",
+    "extra": "Please fill in your name and address.",
+    "example": "Please fill in your name and address.",
+    "translations": {
+      "tr": "doldurmak",
+      "en": "complete a form",
+      "de": "ausfüllen",
+      "es": "rellenar"
+    }
+  },
+  {
+    "term": "cut down on",
+    "attr": "cut down on something",
+    "extra": "I'm trying to cut down on sugar.",
+    "example": "I'm trying to cut down on sugar.",
+    "translations": {
+      "tr": "tüketimini azaltmak",
+      "en": "reduce consumption",
+      "de": "weniger konsumieren",
+      "es": "reducir el consumo de"
+    }
+  },
+  {
+    "term": "come across",
+    "attr": "come across something",
+    "extra": "I came across an old photo yesterday.",
+    "example": "I came across an old photo yesterday.",
+    "translations": {
+      "tr": "tesadüfen karşılaşmak",
+      "en": "find something by chance",
+      "de": "zufällig finden",
+      "es": "encontrar por casualidad"
+    }
+  },
+  {
+    "term": "work out",
+    "attr": "work out a solution",
+    "extra": "We worked out a plan together.",
+    "example": "We worked out a plan together.",
+    "translations": {
+      "tr": "çözüm bulmak",
+      "en": "find a solution",
+      "de": "eine Lösung finden",
+      "es": "encontrar una solución"
+    }
+  },
+  {
+    "term": "get over",
+    "attr": "get over an illness",
+    "extra": "It took a week to get over the flu.",
+    "example": "It took a week to get over the flu.",
+    "translations": {
+      "tr": "iyileşmek",
+      "en": "recover from an illness",
+      "de": "sich erholen von",
+      "es": "recuperarse de"
+    }
+  },
+  {
+    "term": "put away",
+    "attr": "put away belongings",
+    "extra": "Please put away your books.",
+    "example": "Please put away your books.",
+    "translations": {
+      "tr": "yerine kaldırmak",
+      "en": "return something to its proper place",
+      "de": "wegräumen",
+      "es": "guardar en su sitio"
+    }
+  }
+]

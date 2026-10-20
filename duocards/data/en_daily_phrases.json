@@ -1,0 +1,302 @@
+[
+  {
+    "term": "How's it going?",
+    "attr": "Greeting",
+    "extra": "Hi, Alex! How's it going?",
+    "example": "Hi, Alex! How's it going?",
+    "translations": {
+      "tr": "Nasıl gidiyor?",
+      "en": "How are things?",
+      "de": "Wie läuft es?",
+      "es": "¿Cómo va todo?"
+    }
+  },
+  {
+    "term": "Long time no see.",
+    "attr": "Greeting",
+    "extra": "Long time no see. How have you been?",
+    "example": "Long time no see. How have you been?",
+    "translations": {
+      "tr": "Uzun zamandır görüşmedik.",
+      "en": "We haven't met for a long time.",
+      "de": "Lange nicht gesehen.",
+      "es": "Cuánto tiempo sin verte."
+    }
+  },
+  {
+    "term": "What do you mean?",
+    "attr": "Clarification",
+    "extra": "What do you mean by flexible hours?",
+    "example": "What do you mean by flexible hours?",
+    "translations": {
+      "tr": "Ne demek istiyorsun?",
+      "en": "Please explain your meaning.",
+      "de": "Was meinst du?",
+      "es": "¿Qué quieres decir?"
+    }
+  },
+  {
+    "term": "Could you say that again?",
+    "attr": "Clarification",
+    "extra": "Sorry, could you say that again?",
+    "example": "Sorry, could you say that again?",
+    "translations": {
+      "tr": "Tekrar söyler misin?",
+      "en": "Please repeat what you said.",
+      "de": "Könntest du das wiederholen?",
+      "es": "¿Podrías repetirlo?"
+    }
+  },
+  {
+    "term": "Could you speak more slowly?",
+    "attr": "Clarification",
+    "extra": "Could you speak more slowly? I'm still learning.",
+    "example": "Could you speak more slowly? I'm still learning.",
+    "translations": {
+      "tr": "Daha yavaş konuşabilir misin?",
+      "en": "Please reduce your speaking speed.",
+      "de": "Könntest du langsamer sprechen?",
+      "es": "¿Podrías hablar más despacio?"
+    }
+  },
+  {
+    "term": "Let me think.",
+    "attr": "Thinking",
+    "extra": "Let me think. Friday might work.",
+    "example": "Let me think. Friday might work.",
+    "translations": {
+      "tr": "Bir düşüneyim.",
+      "en": "Give me a moment to consider it.",
+      "de": "Lass mich nachdenken.",
+      "es": "Déjame pensar."
+    }
+  },
+  {
+    "term": "That sounds good.",
+    "attr": "Agreement",
+    "extra": "Dinner at seven? That sounds good.",
+    "example": "Dinner at seven? That sounds good.",
+    "translations": {
+      "tr": "Kulağa iyi geliyor.",
+      "en": "I like that suggestion.",
+      "de": "Das klingt gut.",
+      "es": "Eso suena bien."
+    }
+  },
+  {
+    "term": "It's up to you.",
+    "attr": "Choice",
+    "extra": "We can walk or take the bus. It's up to you.",
+    "example": "We can walk or take the bus. It's up to you.",
+    "translations": {
+      "tr": "Sana kalmış.",
+      "en": "You can decide.",
+      "de": "Das liegt bei dir.",
+      "es": "Tú decides."
+    }
+  },
+  {
+    "term": "Never mind.",
+    "attr": "Reassurance",
+    "extra": "Never mind. I'll find another way.",
+    "example": "Never mind. I'll find another way.",
+    "translations": {
+      "tr": "Boş ver.",
+      "en": "Don't worry about it.",
+      "de": "Schon gut.",
+      "es": "No importa."
+    }
+  },
+  {
+    "term": "No worries.",
+    "attr": "Reassurance",
+    "extra": "No worries. We still have plenty of time.",
+    "example": "No worries. We still have plenty of time.",
+    "translations": {
+      "tr": "Sorun değil.",
+      "en": "It's not a problem.",
+      "de": "Kein Problem.",
+      "es": "No te preocupes."
+    }
+  },
+  {
+    "term": "Take your time.",
+    "attr": "Reassurance",
+    "extra": "Take your time with the application.",
+    "example": "Take your time with the application.",
+    "translations": {
+      "tr": "Acele etme.",
+      "en": "You don't need to hurry.",
+      "de": "Lass dir Zeit.",
+      "es": "Tómate tu tiempo."
+    }
+  },
+  {
+    "term": "I'm on my way.",
+    "attr": "Plans",
+    "extra": "I'm on my way. I'll be there soon.",
+    "example": "I'm on my way. I'll be there soon.",
+    "translations": {
+      "tr": "Yoldayım.",
+      "en": "I'm traveling there now.",
+      "de": "Ich bin unterwegs.",
+      "es": "Estoy de camino."
+    }
+  },
+  {
+    "term": "I'll be right back.",
+    "attr": "Plans",
+    "extra": "I'll be right back. I need my jacket.",
+    "example": "I'll be right back. I need my jacket.",
+    "translations": {
+      "tr": "Hemen döneceğim.",
+      "en": "I'll return very soon.",
+      "de": "Ich bin gleich zurück.",
+      "es": "Vuelvo enseguida."
+    }
+  },
+  {
+    "term": "Let me know.",
+    "attr": "Plans",
+    "extra": "Let me know when you arrive.",
+    "example": "Let me know when you arrive.",
+    "translations": {
+      "tr": "Bana haber ver.",
+      "en": "Tell me when you have information.",
+      "de": "Gib mir Bescheid.",
+      "es": "Avísame."
+    }
+  },
+  {
+    "term": "Can I give you a hand?",
+    "attr": "Helping",
+    "extra": "Can I give you a hand with those bags?",
+    "example": "Can I give you a hand with those bags?",
+    "translations": {
+      "tr": "Yardım edebilir miyim?",
+      "en": "Would you like some help?",
+      "de": "Kann ich dir helfen?",
+      "es": "¿Puedo ayudarte?"
+    }
+  },
+  {
+    "term": "I appreciate it.",
+    "attr": "Thanks",
+    "extra": "Thanks for checking my essay. I appreciate it.",
+    "example": "Thanks for checking my essay. I appreciate it.",
+    "translations": {
+      "tr": "Bunu takdir ediyorum.",
+      "en": "I'm grateful for your help.",
+      "de": "Ich weiß das zu schätzen.",
+      "es": "Te lo agradezco."
+    }
+  },
+  {
+    "term": "I'm not sure.",
+    "attr": "Uncertainty",
+    "extra": "I'm not sure which platform we need.",
+    "example": "I'm not sure which platform we need.",
+    "translations": {
+      "tr": "Emin değilim.",
+      "en": "I don't know with confidence.",
+      "de": "Ich bin nicht sicher.",
+      "es": "No estoy seguro."
+    }
+  },
+  {
+    "term": "As far as I know",
+    "attr": "Knowledge",
+    "extra": "As far as I know, the shop opens at nine.",
+    "example": "As far as I know, the shop opens at nine.",
+    "translations": {
+      "tr": "Bildiğim kadarıyla",
+      "en": "according to the information I have",
+      "de": "soweit ich weiß",
+      "es": "que yo sepa"
+    }
+  },
+  {
+    "term": "By the way",
+    "attr": "Topic change",
+    "extra": "By the way, have you seen my keys?",
+    "example": "By the way, have you seen my keys?",
+    "translations": {
+      "tr": "Bu arada",
+      "en": "introducing another topic",
+      "de": "übrigens",
+      "es": "por cierto"
+    }
+  },
+  {
+    "term": "To be honest",
+    "attr": "Opinion",
+    "extra": "To be honest, I prefer the first option.",
+    "example": "To be honest, I prefer the first option.",
+    "translations": {
+      "tr": "Dürüst olmak gerekirse",
+      "en": "speaking frankly",
+      "de": "ehrlich gesagt",
+      "es": "para ser sincero"
+    }
+  },
+  {
+    "term": "That makes sense.",
+    "attr": "Understanding",
+    "extra": "That makes sense. The earlier train is cheaper.",
+    "example": "That makes sense. The earlier train is cheaper.",
+    "translations": {
+      "tr": "Bu mantıklı.",
+      "en": "I understand the reason.",
+      "de": "Das ergibt Sinn.",
+      "es": "Eso tiene sentido."
+    }
+  },
+  {
+    "term": "I couldn't agree more.",
+    "attr": "Agreement",
+    "extra": "Practice matters more than perfection. I couldn't agree more.",
+    "example": "Practice matters more than perfection. I couldn't agree more.",
+    "translations": {
+      "tr": "Tamamen katılıyorum.",
+      "en": "I agree completely.",
+      "de": "Ich stimme voll zu.",
+      "es": "Estoy totalmente de acuerdo."
+    }
+  },
+  {
+    "term": "Sorry to interrupt.",
+    "attr": "Politeness",
+    "extra": "Sorry to interrupt, but your phone is ringing.",
+    "example": "Sorry to interrupt, but your phone is ringing.",
+    "translations": {
+      "tr": "Böldüğüm için özür dilerim.",
+      "en": "An apology for stopping someone speaking.",
+      "de": "Entschuldige die Unterbrechung.",
+      "es": "Perdona la interrupción."
+    }
+  },
+  {
+    "term": "Could I have the bill, please?",
+    "attr": "Restaurant",
+    "extra": "Excuse me, could I have the bill, please?",
+    "example": "Excuse me, could I have the bill, please?",
+    "translations": {
+      "tr": "Hesabı alabilir miyim?",
+      "en": "I'd like to pay for the meal.",
+      "de": "Könnte ich bitte die Rechnung haben?",
+      "es": "¿Me trae la cuenta, por favor?"
+    }
+  },
+  {
+    "term": "Have a good one!",
+    "attr": "Farewell",
+    "extra": "Thanks for your help. Have a good one!",
+    "example": "Thanks for your help. Have a good one!",
+    "translations": {
+      "tr": "İyi günler!",
+      "en": "Have a nice day!",
+      "de": "Schönen Tag noch!",
+      "es": "¡Que tengas un buen día!"
+    }
+  }
+]

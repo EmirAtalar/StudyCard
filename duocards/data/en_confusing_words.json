@@ -1,0 +1,340 @@
+[
+  {
+    "term": "actually",
+    "attr": "actually / currently",
+    "extra": "I expected an expensive restaurant, but the meal was actually cheaper than cooking at home.",
+    "example": "I expected an expensive restaurant, but the meal was actually cheaper than cooking at home.",
+    "translations": {
+      "tr": "aslında; gerçekte",
+      "en": "in fact",
+      "de": "eigentlich; tatsächlich",
+      "es": "en realidad"
+    },
+    "confused_with": "currently"
+  },
+  {
+    "term": "currently",
+    "attr": "currently / actually",
+    "extra": "She is currently studying in Berlin and plans to graduate next summer.",
+    "example": "She is currently studying in Berlin and plans to graduate next summer.",
+    "translations": {
+      "tr": "şu anda",
+      "en": "at the present time",
+      "de": "derzeit",
+      "es": "actualmente"
+    },
+    "confused_with": "actually"
+  },
+  {
+    "term": "sensible",
+    "attr": "sensible / sensitive",
+    "extra": "With heavy rain expected tonight, taking a waterproof coat is a sensible decision.",
+    "example": "With heavy rain expected tonight, taking a waterproof coat is a sensible decision.",
+    "translations": {
+      "tr": "mantıklı; sağduyulu",
+      "en": "showing good judgment",
+      "de": "vernünftig",
+      "es": "sensato"
+    },
+    "confused_with": "sensitive"
+  },
+  {
+    "term": "sensitive",
+    "attr": "sensitive / sensible",
+    "extra": "Her skin is sensitive to sunlight, so she always wears sunscreen outdoors.",
+    "example": "Her skin is sensitive to sunlight, so she always wears sunscreen outdoors.",
+    "translations": {
+      "tr": "hassas; duyarlı",
+      "en": "easily affected",
+      "de": "empfindlich",
+      "es": "sensible"
+    },
+    "confused_with": "sensible"
+  },
+  {
+    "term": "borrow",
+    "attr": "borrow / lend",
+    "extra": "Could I borrow your bicycle this afternoon and return it before dinner?",
+    "example": "Could I borrow your bicycle this afternoon and return it before dinner?",
+    "translations": {
+      "tr": "ödünç almak",
+      "en": "receive something temporarily",
+      "de": "ausleihen von",
+      "es": "pedir prestado"
+    },
+    "confused_with": "lend"
+  },
+  {
+    "term": "lend",
+    "attr": "lend / borrow",
+    "extra": "Could you lend me your bicycle this afternoon until mine is repaired?",
+    "example": "Could you lend me your bicycle this afternoon until mine is repaired?",
+    "translations": {
+      "tr": "ödünç vermek",
+      "en": "give something temporarily",
+      "de": "verleihen",
+      "es": "prestar"
+    },
+    "confused_with": "borrow"
+  },
+  {
+    "term": "bring",
+    "attr": "bring / take",
+    "extra": "Please bring your passport here so I can check it before our flight.",
+    "example": "Please bring your passport here so I can check it before our flight.",
+    "translations": {
+      "tr": "getirmek",
+      "en": "carry something to the speaker or destination",
+      "de": "bringen",
+      "es": "traer"
+    },
+    "confused_with": "take"
+  },
+  {
+    "term": "take",
+    "attr": "take / bring",
+    "extra": "Please take these documents from my desk to the manager on the third floor.",
+    "example": "Please take these documents from my desk to the manager on the third floor.",
+    "translations": {
+      "tr": "götürmek",
+      "en": "carry something away to another place",
+      "de": "mitnehmen",
+      "es": "llevar"
+    },
+    "confused_with": "bring"
+  },
+  {
+    "term": "hear",
+    "attr": "hear / listen",
+    "extra": "Even with the windows closed, I can hear the traffic outside my bedroom.",
+    "example": "Even with the windows closed, I can hear the traffic outside my bedroom.",
+    "translations": {
+      "tr": "duymak",
+      "en": "perceive sound",
+      "de": "hören",
+      "es": "oír"
+    },
+    "confused_with": "listen"
+  },
+  {
+    "term": "listen",
+    "attr": "listen / hear",
+    "extra": "Please listen to the safety instructions before you start using this machine.",
+    "example": "Please listen to the safety instructions before you start using this machine.",
+    "translations": {
+      "tr": "dinlemek",
+      "en": "pay attention to sound",
+      "de": "zuhören",
+      "es": "escuchar"
+    },
+    "confused_with": "hear"
+  },
+  {
+    "term": "say",
+    "attr": "say / tell",
+    "extra": "What did she say about the meeting when you spoke to her yesterday?",
+    "example": "What did she say about the meeting when you spoke to her yesterday?",
+    "translations": {
+      "tr": "bir şey söylemek",
+      "en": "express something in words",
+      "de": "sagen",
+      "es": "decir"
+    },
+    "confused_with": "tell"
+  },
+  {
+    "term": "tell",
+    "attr": "tell / say",
+    "extra": "Could you tell me the address so I can find your office tomorrow?",
+    "example": "Could you tell me the address so I can find your office tomorrow?",
+    "translations": {
+      "tr": "birine anlatmak; söylemek",
+      "en": "give someone information",
+      "de": "jemandem erzählen",
+      "es": "contar a alguien"
+    },
+    "confused_with": "say"
+  },
+  {
+    "term": "remember",
+    "attr": "remember / remind",
+    "extra": "I still remember the first time we met outside the university library.",
+    "example": "I still remember the first time we met outside the university library.",
+    "translations": {
+      "tr": "hatırlamak",
+      "en": "recall information",
+      "de": "sich erinnern",
+      "es": "recordar"
+    },
+    "confused_with": "remind"
+  },
+  {
+    "term": "remind",
+    "attr": "remind / remember",
+    "extra": "Please remind me to buy milk when we pass the supermarket this evening.",
+    "example": "Please remind me to buy milk when we pass the supermarket this evening.",
+    "translations": {
+      "tr": "hatırlatmak",
+      "en": "help someone remember",
+      "de": "erinnern an",
+      "es": "recordar algo a alguien"
+    },
+    "confused_with": "remember"
+  },
+  {
+    "term": "advice",
+    "attr": "advice / advise",
+    "extra": "Her practical advice helped me prepare for the interview and feel more confident.",
+    "example": "Her practical advice helped me prepare for the interview and feel more confident.",
+    "translations": {
+      "tr": "tavsiye",
+      "en": "guidance or recommendations",
+      "de": "Rat",
+      "es": "consejo"
+    },
+    "confused_with": "advise"
+  },
+  {
+    "term": "advise",
+    "attr": "advise / advice",
+    "extra": "I would advise you to book your tickets early because this route is popular.",
+    "example": "I would advise you to book your tickets early because this route is popular.",
+    "translations": {
+      "tr": "tavsiye etmek",
+      "en": "give guidance",
+      "de": "beraten",
+      "es": "aconsejar"
+    },
+    "confused_with": "advice"
+  },
+  {
+    "term": "affect",
+    "attr": "affect / effect",
+    "extra": "A lack of sleep can affect your concentration during an important examination.",
+    "example": "A lack of sleep can affect your concentration during an important examination.",
+    "translations": {
+      "tr": "etkilemek",
+      "en": "have an influence on",
+      "de": "beeinflussen",
+      "es": "afectar"
+    },
+    "confused_with": "effect"
+  },
+  {
+    "term": "effect",
+    "attr": "effect / affect",
+    "extra": "The new medicine had a positive effect on her health within a few days.",
+    "example": "The new medicine had a positive effect on her health within a few days.",
+    "translations": {
+      "tr": "etki; sonuç",
+      "en": "a result or consequence",
+      "de": "Wirkung",
+      "es": "efecto"
+    },
+    "confused_with": "affect"
+  },
+  {
+    "term": "lose",
+    "attr": "lose / loose",
+    "extra": "Put your train ticket in your wallet so you do not lose it.",
+    "example": "Put your train ticket in your wallet so you do not lose it.",
+    "translations": {
+      "tr": "kaybetmek",
+      "en": "no longer have something",
+      "de": "verlieren",
+      "es": "perder"
+    },
+    "confused_with": "loose"
+  },
+  {
+    "term": "loose",
+    "attr": "loose / lose",
+    "extra": "The handle is loose, so tighten the screws before using the drawer again.",
+    "example": "The handle is loose, so tighten the screws before using the drawer again.",
+    "translations": {
+      "tr": "gevşek; bol",
+      "en": "not firmly attached or tight",
+      "de": "locker",
+      "es": "suelto"
+    },
+    "confused_with": "lose"
+  },
+  {
+    "term": "quiet",
+    "attr": "quiet / quite",
+    "extra": "Please keep quiet while the children are sleeping in the next room.",
+    "example": "Please keep quiet while the children are sleeping in the next room.",
+    "translations": {
+      "tr": "sessiz",
+      "en": "making little noise",
+      "de": "ruhig",
+      "es": "silencioso"
+    },
+    "confused_with": "quite"
+  },
+  {
+    "term": "quite",
+    "attr": "quite / quiet",
+    "extra": "The mountain path was quite difficult, but we managed to reach the summit.",
+    "example": "The mountain path was quite difficult, but we managed to reach the summit.",
+    "translations": {
+      "tr": "oldukça",
+      "en": "to a considerable degree",
+      "de": "ziemlich",
+      "es": "bastante"
+    },
+    "confused_with": "quiet"
+  },
+  {
+    "term": "fun",
+    "attr": "fun / funny",
+    "extra": "We had a lot of fun playing board games with our friends last night.",
+    "example": "We had a lot of fun playing board games with our friends last night.",
+    "translations": {
+      "tr": "eğlence; eğlenceli şey",
+      "en": "enjoyment or pleasure",
+      "de": "Spaß",
+      "es": "diversión"
+    },
+    "confused_with": "funny"
+  },
+  {
+    "term": "funny",
+    "attr": "funny / fun",
+    "extra": "His funny story made everyone laugh during the long journey home.",
+    "example": "His funny story made everyone laugh during the long journey home.",
+    "translations": {
+      "tr": "komik",
+      "en": "making people laugh",
+      "de": "lustig",
+      "es": "gracioso"
+    },
+    "confused_with": "fun"
+  },
+  {
+    "term": "eventually",
+    "attr": "eventually / possibly",
+    "extra": "After trying several different methods, we eventually found a solution that worked.",
+    "example": "After trying several different methods, we eventually found a solution that worked.",
+    "translations": {
+      "tr": "sonunda",
+      "en": "in the end",
+      "de": "schließlich",
+      "es": "finalmente"
+    },
+    "confused_with": "possibly"
+  },
+  {
+    "term": "possibly",
+    "translations": {
+      "tr": "belki; muhtemelen",
+      "en": "perhaps; it may happen",
+      "de": "möglicherweise",
+      "es": "posiblemente"
+    },
+    "confused_with": "eventually",
+    "extra": "We could possibly visit you on Sunday, but we have not confirmed our plans.",
+    "example": "We could possibly visit you on Sunday, but we have not confirmed our plans.",
+    "attr": "possibly / eventually"
+  }
+]

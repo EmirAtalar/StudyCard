@@ -1,0 +1,302 @@
+[
+  {
+    "term": "Please find attached",
+    "attr": "Email",
+    "extra": "Please find attached the updated report.",
+    "example": "Please find attached the updated report.",
+    "translations": {
+      "tr": "Ekte bulabilirsiniz.",
+      "en": "The document is included with this email.",
+      "de": "Im Anhang finden Sie",
+      "es": "Adjunto encontrará"
+    }
+  },
+  {
+    "term": "I'm writing to confirm",
+    "attr": "Email",
+    "extra": "I'm writing to confirm our meeting on Tuesday.",
+    "example": "I'm writing to confirm our meeting on Tuesday.",
+    "translations": {
+      "tr": "Teyit etmek için yazıyorum.",
+      "en": "I want to verify an arrangement.",
+      "de": "Ich schreibe zur Bestätigung",
+      "es": "Escribo para confirmar"
+    }
+  },
+  {
+    "term": "Could you clarify",
+    "attr": "Question",
+    "extra": "Could you clarify the delivery requirements?",
+    "example": "Could you clarify the delivery requirements?",
+    "translations": {
+      "tr": "Açıklığa kavuşturabilir misiniz?",
+      "en": "Please explain more clearly.",
+      "de": "Könnten Sie erläutern",
+      "es": "¿Podría aclarar?"
+    }
+  },
+  {
+    "term": "For your reference",
+    "attr": "Email",
+    "extra": "For your reference, I've included last month's figures.",
+    "example": "For your reference, I've included last month's figures.",
+    "translations": {
+      "tr": "Bilginize; başvurmanız için",
+      "en": "provided as useful information",
+      "de": "zu Ihrer Information",
+      "es": "para su información"
+    }
+  },
+  {
+    "term": "Please let me know",
+    "attr": "Email",
+    "extra": "Please let me know if you have any questions.",
+    "example": "Please let me know if you have any questions.",
+    "translations": {
+      "tr": "Lütfen bana bildirin.",
+      "en": "Please tell me.",
+      "de": "Bitte teilen Sie mir mit",
+      "es": "Por favor, avíseme."
+    }
+  },
+  {
+    "term": "I look forward to hearing from you.",
+    "attr": "Email",
+    "extra": "Thank you for your time. I look forward to hearing from you.",
+    "example": "Thank you for your time. I look forward to hearing from you.",
+    "translations": {
+      "tr": "Yanıtınızı bekliyorum.",
+      "en": "I hope to receive your reply.",
+      "de": "Ich freue mich auf Ihre Antwort.",
+      "es": "Espero su respuesta."
+    }
+  },
+  {
+    "term": "follow up on",
+    "attr": "Email",
+    "extra": "I'm following up on my previous email.",
+    "example": "I'm following up on my previous email.",
+    "translations": {
+      "tr": "bir konunun takibini yapmak",
+      "en": "check the progress of a previous matter",
+      "de": "nachfragen zu",
+      "es": "dar seguimiento a"
+    }
+  },
+  {
+    "term": "action item",
+    "attr": "Meeting",
+    "extra": "Let's assign an owner to each action item.",
+    "example": "Let's assign an owner to each action item.",
+    "translations": {
+      "tr": "yapılması kararlaştırılan iş",
+      "en": "a task agreed during a meeting",
+      "de": "vereinbarte Aufgabe",
+      "es": "tarea acordada"
+    }
+  },
+  {
+    "term": "meeting agenda",
+    "attr": "Meeting",
+    "extra": "I'll send the meeting agenda this afternoon.",
+    "example": "I'll send the meeting agenda this afternoon.",
+    "translations": {
+      "tr": "toplantı gündemi",
+      "en": "the topics to discuss at a meeting",
+      "de": "Tagesordnung",
+      "es": "orden del día"
+    }
+  },
+  {
+    "term": "take minutes",
+    "attr": "Meeting",
+    "extra": "Could you take minutes during the meeting?",
+    "example": "Could you take minutes during the meeting?",
+    "translations": {
+      "tr": "toplantı tutanağı tutmak",
+      "en": "write a record of a meeting",
+      "de": "Protokoll führen",
+      "es": "tomar acta"
+    }
+  },
+  {
+    "term": "reschedule a meeting",
+    "attr": "Meeting",
+    "extra": "We need to reschedule the meeting for Thursday.",
+    "example": "We need to reschedule the meeting for Thursday.",
+    "translations": {
+      "tr": "toplantıyı başka zamana almak",
+      "en": "move a meeting to another time",
+      "de": "ein Treffen verschieben",
+      "es": "reprogramar una reunión"
+    }
+  },
+  {
+    "term": "meet the requirements",
+    "attr": "Project",
+    "extra": "The new design meets the requirements.",
+    "example": "The new design meets the requirements.",
+    "translations": {
+      "tr": "gereksinimleri karşılamak",
+      "en": "satisfy the specified conditions",
+      "de": "die Anforderungen erfüllen",
+      "es": "cumplir los requisitos"
+    }
+  },
+  {
+    "term": "provide an update",
+    "attr": "Project",
+    "extra": "Could you provide an update on the project?",
+    "example": "Could you provide an update on the project?",
+    "translations": {
+      "tr": "güncel durumu bildirmek",
+      "en": "share the latest information",
+      "de": "über den aktuellen Stand informieren",
+      "es": "informar de los avances"
+    }
+  },
+  {
+    "term": "ahead of schedule",
+    "attr": "Project",
+    "extra": "We finished the first stage ahead of schedule.",
+    "example": "We finished the first stage ahead of schedule.",
+    "translations": {
+      "tr": "planlanandan erken",
+      "en": "earlier than planned",
+      "de": "früher als geplant",
+      "es": "antes de lo previsto"
+    }
+  },
+  {
+    "term": "behind schedule",
+    "attr": "Project",
+    "extra": "The delivery is two days behind schedule.",
+    "example": "The delivery is two days behind schedule.",
+    "translations": {
+      "tr": "planlanandan geç",
+      "en": "later than planned",
+      "de": "hinter dem Zeitplan",
+      "es": "con retraso"
+    }
+  },
+  {
+    "term": "on track",
+    "attr": "Project",
+    "extra": "The project is on track for a June launch.",
+    "example": "The project is on track for a June launch.",
+    "translations": {
+      "tr": "planlandığı gibi ilerliyor",
+      "en": "progressing as planned",
+      "de": "im Plan",
+      "es": "según lo previsto"
+    }
+  },
+  {
+    "term": "out of office",
+    "attr": "Email",
+    "extra": "I'll be out of office until Monday.",
+    "example": "I'll be out of office until Monday.",
+    "translations": {
+      "tr": "ofis dışında",
+      "en": "away from work and unavailable",
+      "de": "abwesend",
+      "es": "fuera de la oficina"
+    }
+  },
+  {
+    "term": "annual leave",
+    "attr": "Work",
+    "extra": "I'm taking annual leave next week.",
+    "example": "I'm taking annual leave next week.",
+    "translations": {
+      "tr": "yıllık izin",
+      "en": "paid time off work each year",
+      "de": "Jahresurlaub",
+      "es": "vacaciones anuales"
+    }
+  },
+  {
+    "term": "job vacancy",
+    "attr": "Career",
+    "extra": "We have a job vacancy in the support team.",
+    "example": "We have a job vacancy in the support team.",
+    "translations": {
+      "tr": "açık iş pozisyonu",
+      "en": "an available job position",
+      "de": "offene Stelle",
+      "es": "vacante de empleo"
+    }
+  },
+  {
+    "term": "cover letter",
+    "attr": "Career",
+    "extra": "Please submit your CV and a cover letter.",
+    "example": "Please submit your CV and a cover letter.",
+    "translations": {
+      "tr": "iş başvurusu ön yazısı",
+      "en": "a letter introducing a job application",
+      "de": "Bewerbungsanschreiben",
+      "es": "carta de presentación"
+    }
+  },
+  {
+    "term": "relevant experience",
+    "attr": "Career",
+    "extra": "Do you have relevant experience in customer service?",
+    "example": "Do you have relevant experience in customer service?",
+    "translations": {
+      "tr": "pozisyonla ilgili deneyim",
+      "en": "experience related to the role",
+      "de": "einschlägige Erfahrung",
+      "es": "experiencia relevante"
+    }
+  },
+  {
+    "term": "salary expectations",
+    "attr": "Career",
+    "extra": "What are your salary expectations for this role?",
+    "example": "What are your salary expectations for this role?",
+    "translations": {
+      "tr": "maaş beklentisi",
+      "en": "the pay a candidate hopes to receive",
+      "de": "Gehaltsvorstellungen",
+      "es": "expectativas salariales"
+    }
+  },
+  {
+    "term": "probation period",
+    "attr": "Career",
+    "extra": "The probation period lasts three months.",
+    "example": "The probation period lasts three months.",
+    "translations": {
+      "tr": "deneme süresi",
+      "en": "an initial period for assessing a new employee",
+      "de": "Probezeit",
+      "es": "período de prueba"
+    }
+  },
+  {
+    "term": "customer feedback",
+    "attr": "Business",
+    "extra": "We use customer feedback to improve the service.",
+    "example": "We use customer feedback to improve the service.",
+    "translations": {
+      "tr": "müşteri geri bildirimi",
+      "en": "comments from customers",
+      "de": "Kundenfeedback",
+      "es": "opiniones de los clientes"
+    }
+  },
+  {
+    "term": "Could we arrange a call?",
+    "attr": "Email",
+    "extra": "Could we arrange a call to discuss the proposal?",
+    "example": "Could we arrange a call to discuss the proposal?",
+    "translations": {
+      "tr": "Bir görüşme ayarlayabilir miyiz?",
+      "en": "Can we schedule a phone or video conversation?",
+      "de": "Könnten wir einen Anruf vereinbaren?",
+      "es": "¿Podríamos concertar una llamada?"
+    }
+  }
+]

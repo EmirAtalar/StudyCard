@@ -1,0 +1,226 @@
+{
+  "en": {
+    "opportunity": [
+      "This internship is a great opportunity to gain experience.",
+      "I had the opportunity to meet the author.",
+      "Do not miss this opportunity to learn something new.",
+      "She saw an opportunity to start her own business.",
+      "The trip gave us an opportunity to practice English.",
+      "Thank you for giving me this opportunity.",
+      "Everyone deserves an opportunity to succeed.",
+      "We used the opportunity to ask a few questions.",
+      "A new opportunity may appear when you least expect it.",
+      "He is looking for an opportunity to work abroad."
+    ],
+    "explanation": [
+      "Your explanation helped me understand the problem.",
+      "Could you give me a simpler explanation?",
+      "There must be an explanation for this mistake.",
+      "She gave a clear explanation of the rules.",
+      "I read the explanation twice before answering.",
+      "His explanation did not match the facts.",
+      "The teacher added an explanation beside the diagram.",
+      "We are waiting for an explanation from the manager.",
+      "That is the most likely explanation.",
+      "The book includes an explanation of each formula."
+    ],
+    "readily": [
+      "This information is readily available online.",
+      "She readily agreed to help us.",
+      "The ingredients can be readily found in most supermarkets.",
+      "He readily admitted that he had made a mistake.",
+      "Children readily learn new words through games.",
+      "The two materials can be readily distinguished by their color.",
+      "They readily accepted our invitation.",
+      "The problem can be readily solved with this method.",
+      "I would readily recommend this book to a beginner.",
+      "Clean water is not readily available in every village."
+    ],
+    "probably": [
+      "It will probably rain this afternoon.",
+      "She is probably waiting at the station.",
+      "We will probably arrive before six.",
+      "You probably know the answer already.",
+      "He probably forgot to check his messages.",
+      "This is probably the easiest way to solve it.",
+      "They will probably choose a different date.",
+      "I should probably get some sleep.",
+      "The shop is probably closed by now.",
+      "You will probably need a larger bag."
+    ],
+    "store": [
+      "You can store your luggage in the hotel locker.",
+      "We store the extra chairs in the garage.",
+      "Please store this medicine in a cool, dry place.",
+      "This device can store thousands of photos.",
+      "I went to the store to buy some milk.",
+      "The store opens at nine every morning.",
+      "They store rainwater in a large tank.",
+      "Do not store raw meat next to cooked food.",
+      "She works at a small grocery store.",
+      "You need more space to store these files."
+    ],
+    "back up": [
+      "Remember to back up your files before updating the computer.",
+      "Can you back up a little so I can open the door?",
+      "We back up the database every night.",
+      "You need evidence to back up that claim.",
+      "I will back up your story if anyone asks.",
+      "Please back up your photos to an external drive.",
+      "The driver had to back up to let the bus pass.",
+      "These results back up our original theory.",
+      "We should back up the documents before deleting anything.",
+      "My teammates will back up my decision."
+    ],
+    "although": [
+      "Although it was raining, we went for a walk.",
+      "She passed the exam although she was nervous.",
+      "Although the room is small, it is comfortable.",
+      "I enjoyed the film although it was quite long.",
+      "Although he was tired, he finished the report.",
+      "They stayed friends although they lived far apart.",
+      "Although the question looked easy, many students got it wrong.",
+      "We arrived on time although the traffic was heavy.",
+      "Although I understand your point, I disagree.",
+      "The machine still works although it is very old."
+    ],
+    "horizontal": [
+      "Draw a horizontal line across the page.",
+      "The shelf must be horizontal before you tighten the screws.",
+      "The horizontal axis shows the time in seconds.",
+      "Keep the camera horizontal when taking this photograph.",
+      "The flag has three horizontal stripes.",
+      "Place the bottle in a horizontal position.",
+      "A horizontal surface should be level.",
+      "The diagram includes a horizontal arrow pointing to the right.",
+      "We measured the horizontal distance between the two points.",
+      "Use a ruler to check whether the line is horizontal."
+    ],
+    "function": [
+      "The main function of the heart is to pump blood.",
+      "This function returns the largest number in the list.",
+      "The machine cannot function without electricity.",
+      "What is the function of this button?",
+      "We plotted the function on a graph.",
+      "Sleep helps the brain function properly.",
+      "The function has a maximum value at this point.",
+      "Each part has a specific function.",
+      "You can call this function from another file.",
+      "The device performs more than one function."
+    ],
+    "derivative": [
+      "The derivative tells us how quickly a function changes.",
+      "Find the derivative of this function.",
+      "The derivative of a constant is zero.",
+      "We used the derivative to calculate the slope.",
+      "The first derivative is positive on this interval.",
+      "A second derivative can describe acceleration.",
+      "The graph helps us understand the derivative.",
+      "Check your derivative before substituting the value of x.",
+      "This formula gives the derivative of a product.",
+      "At this point, the derivative does not exist."
+    ],
+    "tangent line": [
+      "The tangent line touches the curve at this point.",
+      "Draw the tangent line at x equals two.",
+      "The derivative gives the slope of the tangent line.",
+      "This tangent line is horizontal.",
+      "We found the equation of the tangent line.",
+      "The tangent line helps us estimate nearby values.",
+      "A tangent line may cross the curve at another point.",
+      "Use these coordinates to calculate the tangent line.",
+      "The graph shows a tangent line in red.",
+      "There is no unique tangent line at this corner."
+    ],
+    "equals": [
+      "Two plus three equals five.",
+      "One hundred centimeters equals one meter.",
+      "The total equals the sum of these three numbers.",
+      "If x equals zero, the expression becomes one.",
+      "The distance equals speed multiplied by time.",
+      "Her score equals the previous record.",
+      "One quarter equals twenty-five percent.",
+      "Check whether the left side equals the right side.",
+      "The area equals length multiplied by width.",
+      "The final result equals twelve."
+    ],
+    "situation": [
+      "The situation is improving every day.",
+      "We need to understand the situation before making a decision.",
+      "She stayed calm in a difficult situation.",
+      "This situation requires a quick response.",
+      "How would you handle this situation?",
+      "He explained the situation to the manager.",
+      "The situation changed after the meeting.",
+      "I have never been in this situation before.",
+      "We should look at the situation from another perspective.",
+      "They are doing their best to improve the situation."
+    ],
+    "hello": [
+      "When I arrived at the office, I said hello to the receptionist.",
+      "She smiled and said hello before introducing herself to the class.",
+      "He answered the phone with a cheerful hello and asked who was calling.",
+      "Please say hello to your sister when you see her this evening.",
+      "I stopped to say hello to our new neighbors on my way home.",
+      "A simple hello can help you start a conversation with someone new.",
+      "The children waved and shouted hello when their grandparents arrived at the station.",
+      "We exchanged a friendly hello while waiting for the morning bus.",
+      "Before asking for directions, she said hello to the man at the information desk.",
+      "I had only just said hello when she recognized me from school."
+    ],
+    "apple": [
+      "I packed an apple in my bag for a snack after school.",
+      "She sliced an apple and added the pieces to her morning porridge.",
+      "The apple tree behind our house produces fresh fruit every autumn.",
+      "He offered me an apple while we waited for the train to arrive.",
+      "Please wash the apple before eating it because it still has dirt on the skin.",
+      "We used a ripe apple to give the homemade cake a sweeter taste.",
+      "This apple tastes much sweeter than the ones I bought last week.",
+      "I dropped my apple on the floor before I had a chance to eat it.",
+      "Grandma peeled an apple while telling us a story about her childhood.",
+      "There was only one apple left in the basket after lunch."
+    ]
+  },
+  "de": {
+    "apfel": [
+      "Ich habe einen Apfel in meine Tasche gelegt, damit ich später etwas essen kann.",
+      "Sie schneidet den Apfel in kleine Stücke und gibt ihn in ihr Müsli.",
+      "Dieser Apfel schmeckt süßer als die Früchte, die wir gestern gekauft haben.",
+      "Bitte wasche den Apfel, bevor du ihn nach dem Unterricht isst.",
+      "Im Herbst kaufe ich jeden Morgen einen frischen Apfel auf dem Markt.",
+      "Mein Bruder hat den letzten Apfel aus dem Korb genommen.",
+      "Der Apfel fiel vom Baum und landete direkt neben dem Gartenzaun.",
+      "Für diesen Kuchen brauchen wir noch einen großen Apfel aus dem Kühlschrank.",
+      "Nach dem langen Spaziergang teilten wir uns einen Apfel und etwas Brot.",
+      "Er packte einen Apfel als gesunden Snack für die Zugfahrt ein."
+    ]
+  },
+  "fr": {
+    "pomme": [
+      "Je prends une pomme dans mon sac pour la manger après le cours.",
+      "Elle coupe la pomme en petits morceaux pour préparer le dessert.",
+      "Cette pomme est plus sucrée que celles achetées au marché hier.",
+      "Il faut laver la pomme avant de la donner aux enfants.",
+      "Mon frère a mangé la dernière pomme qui restait dans le panier.",
+      "Nous avons partagé une pomme pendant notre longue promenade dans le parc.",
+      "Pour préparer ce gâteau, ajoutez une pomme coupée en morceaux à la pâte.",
+      "La pomme est tombée de la table pendant que nous préparions le repas.",
+      "Chaque matin, elle emporte une pomme fraîche pour sa pause au bureau.",
+      "Il a choisi une pomme rouge pour accompagner son déjeuner."
+    ]
+  },
+  "es": {
+    "manzana": [
+      "Llevo una manzana en la mochila para comer después de la clase.",
+      "Ella cortó la manzana en trozos pequeños para preparar el postre.",
+      "Esta manzana sabe más dulce que las que compramos ayer.",
+      "Lava bien la manzana antes de dársela a los niños.",
+      "Mi hermano se comió la última manzana que quedaba en la cesta.",
+      "Compartimos una manzana mientras descansábamos después de la caminata por el parque.",
+      "Para preparar este pastel, añade una manzana cortada a la masa.",
+      "La manzana cayó al suelo cuando estábamos preparando la cena.",
+      "Cada mañana lleva una manzana fresca para su descanso en la oficina.",
+      "Él eligió una manzana roja para acompañar su almuerzo en la escuela."
+    ]
+  }
+}
