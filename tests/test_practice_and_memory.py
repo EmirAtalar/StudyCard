@@ -179,7 +179,10 @@ class SentenceMemoryTests(AppFixture):
 
     def test_all_provider_errors_remain_errors_not_empty_results(self):
         error=memory.urllib.error.HTTPError('https://api.tatoeba.org',429,'Rate limited',{},None)
-        with patch.object(memory,'_fetch_tatoeba',side_effect=error), patch.object(memory,'_fetch_legacy',side_effect=error), patch.object(memory,'_fetch_dictionary',side_effect=error):
+        with patch.object(memory,'_fetch_tatoeba',side_effect=error), \
+                patch.object(memory,'_fetch_legacy',side_effect=error), \
+                patch.object(memory,'_fetch_dictionary',side_effect=error), \
+                patch.object(memory,'_fetch_wikipedia',side_effect=error):
             with self.assertRaises(memory.urllib.error.HTTPError):
                 memory.fetch_corpus('apple','en','tr')
         self.assertEqual(memory._error_code(error),'http_429')
@@ -226,7 +229,10 @@ class SentenceMemoryTests(AppFixture):
     def test_short_provider_results_are_combined_and_deduplicated(self):
         def row(i):
             return dict(text=f'I ate an apple at table {i} while waiting for the bus.',translations={},kind='example',source='tatoeba')
-        with patch.object(memory,'_fetch_tatoeba',return_value=[row(i) for i in range(4)]),patch.object(memory,'_fetch_legacy',return_value=[row(i) for i in range(3,8)]),patch.object(memory,'_fetch_dictionary',return_value=[row(i) for i in range(7,12)]):
+        with patch.object(memory,'_fetch_tatoeba',return_value=[row(i) for i in range(4)]), \
+                patch.object(memory,'_fetch_legacy',return_value=[row(i) for i in range(3,8)]), \
+                patch.object(memory,'_fetch_dictionary',return_value=[row(i) for i in range(7,12)]), \
+                patch.object(memory,'_fetch_wikipedia',return_value=[]):
             rows=memory.fetch_corpus('apple','en')
         self.assertEqual(len(rows),10)
         self.assertEqual(len({r['text'] for r in rows}),10)
